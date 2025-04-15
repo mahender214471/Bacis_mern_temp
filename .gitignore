@@ -1,5 +1,6 @@
 #BACKEND
 /backend/node_modules
+/backend/.env
 #FROENTEND
 /frontend/node_modules
 # Logs
